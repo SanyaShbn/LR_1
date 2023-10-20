@@ -1,0 +1,4 @@
+Maths 100(lections) 50(practices) 20(labs)
+Physics 72(lections) 30(practices) 15(labs)
+ComputerScience 55(lections) 25(labs)
+English 50(practices)

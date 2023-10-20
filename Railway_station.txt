@@ -1,0 +1,5 @@
+122 Moscow monday 12:00 3000
+111 Minsk friday 21:00 5000
+167 Orsha wednesday 9:00 2000
+200 Brest tuesday 8:00 1500
+56 StPetersburg tuesday 15:30 1000

@@ -1,0 +1,4 @@
+firm_1 LLC 10000 5000 
+firm_2 IE 8000 
+firm_3 PC 2000 500 
+firm_4 ALC 3000 
